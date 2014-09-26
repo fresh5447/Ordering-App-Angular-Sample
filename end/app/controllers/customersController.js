@@ -56,5 +56,3 @@
         .controller('CustomersController', CustomersController);
 
 }());
-
-//added comment
